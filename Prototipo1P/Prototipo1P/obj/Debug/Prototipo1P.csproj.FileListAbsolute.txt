@@ -1,0 +1,15 @@
+C:\Users\CARLOS JAVIER\source\repos\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.csprojAssemblyReference.cache
+C:\Users\CARLOS JAVIER\source\repos\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.ContenedorMenu.resources
+C:\Users\CARLOS JAVIER\source\repos\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.Cuenta_Corriente.resources
+C:\Users\CARLOS JAVIER\source\repos\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.Properties.Resources.resources
+C:\Users\CARLOS JAVIER\source\repos\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.csproj.GenerateResource.cache
+C:\Users\CARLOS JAVIER\source\repos\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.csproj.CoreCompileInputs.cache
+C:\Users\CARLOS JAVIER\source\repos\Prototipo1P\Prototipo1P\bin\Debug\Prototipo1P.exe.config
+C:\Users\CARLOS JAVIER\source\repos\Prototipo1P\Prototipo1P\bin\Debug\Prototipo1P.exe
+C:\Users\CARLOS JAVIER\source\repos\Prototipo1P\Prototipo1P\bin\Debug\Prototipo1P.pdb
+C:\Users\CARLOS JAVIER\source\repos\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.Factura.resources
+C:\Users\CARLOS JAVIER\source\repos\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.exe
+C:\Users\CARLOS JAVIER\source\repos\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.pdb
+C:\Users\CARLOS JAVIER\source\repos\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.Empleado.resources
+C:\Users\CARLOS JAVIER\source\repos\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.Inventario.resources
+C:\Users\CARLOS JAVIER\source\repos\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.Ventas.resources
